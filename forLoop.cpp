@@ -15,4 +15,4 @@ int main() {
     cout << ((b%2 == 0) ? "even" : "odd") << "\n";
     
     return 0;
-}|
+}
